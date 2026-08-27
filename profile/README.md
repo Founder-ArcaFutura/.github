@@ -6,7 +6,7 @@ I study how machine-learning systems behave internally — particularly during
 training — and build experiments and instrumentation to make those dynamics
 measurable, falsifiable, and operationally useful.
 
-I am Co-founder and CTO of **PYPER³**, (https://github.com/PYPER3) where I lead development and research on
+I am Co-founder and CTO of [**PYPER³**](https://github.com/PYPER3),  where I lead development and research on
 **AEGIS**, a training-time observability and governance system.
 
 My work spans model forensics, mechanistic measurement, training dynamics,
