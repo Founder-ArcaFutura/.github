@@ -6,7 +6,7 @@ I study how machine-learning systems behave internally — particularly during
 training — and build experiments and instrumentation to make those dynamics
 measurable, falsifiable, and operationally useful.
 
-I am Co-founder and CTO of **PYPER³**, where I lead development and research on
+I am Co-founder and CTO of **PYPER³**, (https://github.com/PYPER3) where I lead development and research on
 **AEGIS**, a training-time observability and governance system.
 
 My work spans model forensics, mechanistic measurement, training dynamics,
@@ -46,19 +46,19 @@ strategic behavior in language models.
 A recurring depthwise activation pattern observed across a broad set of
 transformer models.
 
-→ Repository  
-→ Preprint
+[Preprint](https://zenodo.org/records/21222115)
 
 ### Model Forensics: Value Leakage
 Controlled replication and extension work examining when value preferences leak
 into factual estimates.
 
-→ Repository
+[Repository](https://github.com/Founder-ArcaFutura/model_forensics_values_leakage)
 
 ### StratEval
 Evaluation framework for instrumental convergence and strategic behavior.
 
-→ Repository
+[Repository](https://github.com/Founder-ArcaFutura/StratEval)
+[Preprint](https://zenodo.org/records/20419741)
 
 ### PYPER³ / AEGIS
 Training-time observability, anomaly detection, and governance infrastructure.
